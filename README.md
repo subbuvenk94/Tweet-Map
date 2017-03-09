@@ -1,1 +1,1 @@
-# ElasticSearch-Twitter-Stream-in-Python
+# Tweet-Map using Elasticsearch and Flask with Elastic Beanstalk
