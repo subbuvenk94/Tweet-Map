@@ -9,10 +9,10 @@ import sys
 import fetch
 
 es = Elasticsearch()
-con_key ='TQQvceMyQ8JpIp4yPDJ51eqkU'
-con_secret ='tmdzEtXmD9dZhXfdt7hAUClL1ZC8efirBmhPYLztbb4iMzWIrL'
-acess_token ='357005134-tlDx6j7FL3YfT749102zQcLU8uQ5ZlUj1KQxvkqc'
-acess_secret = 'hp99szIiMvtOCvrDYDztPYCypJkBdLMtS4dfUuknyrRd0'
+con_key ='CK'
+con_secret ='CS'
+acess_token =' AT'
+acess_secret = 'AS'
 
 class listener(StreamListener):
     def on_data(self, raw_data):
